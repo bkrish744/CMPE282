@@ -6,15 +6,6 @@ Course: CMPE-282 Cloud Services
 
 Professor: [Andrew Bond](https://www.linkedin.com/in/ahbond/)
 
-Students:
-
-[Bhargav Krishna Mullapudi](https://www.linkedin.com/in/bhargavkrishna/)
-
-[Satya Ashish Veda](https://www.linkedin.com/in/satyaashishveda/)
-
-[Shireesh Vennamaneni](https://www.linkedin.com/in/shireesh-vennamaneni-9b906914a/)
-
-[Sri Anudeep Velicheti](https://www.linkedin.com/in/sri-anudeep-velicheti/)
 
 # SportLink
 ![Screenshot 2024-05-12 225413](https://github.com/bkrish111/CMPE282/assets/147780244/13f62bc6-a855-4192-8f71-60d947f7dda3)
